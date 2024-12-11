@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f982f7a7-839b-47e2-8ac9-0433047c0e2b)# CSharpEgitimKampi301
+# CSharpEgitimKampi301
 
 
 
