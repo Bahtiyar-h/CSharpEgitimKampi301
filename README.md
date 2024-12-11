@@ -1,3 +1,5 @@
+# CSharpEgitimKampi301
+
 # Kullanılan Teknolojiler 
 ![Logo](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
@@ -5,9 +7,7 @@
 
 ![Logo](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 
-
 #
-# CSharpEgitimKampi301
 
 ### Bu repo, Murat Yücedağ hocamızın eğitmenliğinde katıldığım C# Eğitim Kampı 301 modülünde geliştirdiğim projeleri içermektedir. Bu projeler, programlama ve veritabanı ile ilgili bilgilerimi geliştirmemi ve sağladı. Bu repoda yer alan her bir proje ile ilgili teknik detaylara aşağıdan ulaşabilirsiniz:
 
